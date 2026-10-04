@@ -41,3 +41,21 @@ Rule: if we use a code snippet from AWS documentation, record the exact page con
 
 - Harness models and instructions  
   https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-models.html
+
+
+## Lesson 1.2 — Tool vs Function vs MCP Tool
+
+- Harness tools  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-tools.html
+
+- Use an AgentCore Gateway  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using.html
+
+- List Gateway tools  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-list.html
+
+- Call a Gateway tool  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-call.html
+
+- Gateway core concepts  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-core-concepts.html
