@@ -59,3 +59,18 @@ Rule: if we use a code snippet from AWS documentation, record the exact page con
 
 - Gateway core concepts  
   https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-core-concepts.html
+
+
+## Lesson 1.3 — Context vs State vs Session
+
+- Runtime isolated sessions  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-sessions.html
+
+- Runtime architecture and microVM sessions  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-how-it-works.html
+
+- Harness Memory  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-memory.html
+
+- Memory types  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-types.html
