@@ -32,3 +32,12 @@ We will add the exact official page used for each lesson, including:
 - Evaluations
 
 Rule: if we use a code snippet from AWS documentation, record the exact page containing that snippet here.
+
+
+## Lesson 1.1 — LLM vs Agent vs Agent Loop
+
+- AgentCore Harness vs. Runtime  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-vs-runtime.html
+
+- Harness models and instructions  
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-models.html
