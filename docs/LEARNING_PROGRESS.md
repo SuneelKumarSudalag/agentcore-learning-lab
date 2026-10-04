@@ -4,13 +4,14 @@
 
 - Application: Enterprise Multi-Agent RAG Research Assistant
 - Current component: 1 — AgentCore mental model
-- Current lesson: 1.2 — Tool vs Function vs MCP Tool
+- Current lesson: 1.3 — Context vs State vs Session
 - Status: IN PROGRESS
-- Next action: Complete Lesson 1.2 understanding checkpoint, then move to context/state/session.
+- Next action: Complete Lesson 1.3 understanding checkpoint, then move to memory vs session persistence.
 
 ## Completed components
 
 - Lesson 1.1 — LLM vs Agent vs Agent Loop
+- Lesson 1.2 — Tool vs Function vs MCP Tool
 
 ## Current understanding checkpoint
 
@@ -32,4 +33,4 @@ We do not mark a component complete just because code exists. We mark it complet
 
 ## Next lesson
 
-Component 1.2 — Tool vs Function vs MCP Tool
+Component 1.3 — Context vs State vs Session
