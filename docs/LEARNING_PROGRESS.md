@@ -4,13 +4,13 @@
 
 - Application: Enterprise Multi-Agent RAG Research Assistant
 - Current component: 1 — AgentCore mental model
-- Current lesson: 1.1 — LLM vs Agent vs Agent Loop
+- Current lesson: 1.2 — Tool vs Function vs MCP Tool
 - Status: IN PROGRESS
-- Next action: Complete the Lesson 1.1 understanding checkpoint with the learner, then decide whether to advance.
+- Next action: Complete Lesson 1.2 understanding checkpoint, then move to context/state/session.
 
 ## Completed components
 
-None yet.
+- Lesson 1.1 — LLM vs Agent vs Agent Loop
 
 ## Current understanding checkpoint
 
@@ -32,4 +32,4 @@ We do not mark a component complete just because code exists. We mark it complet
 
 ## Next lesson
 
-Component 1.1 — LLM vs Agent vs Agent Loop
+Component 1.2 — Tool vs Function vs MCP Tool
