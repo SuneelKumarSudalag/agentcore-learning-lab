@@ -5,8 +5,8 @@
 - Application: Enterprise Multi-Agent RAG Research Assistant
 - Current component: 1 — AgentCore mental model
 - Current lesson: 1.1 — LLM vs Agent vs Agent Loop
-- Status: NOT STARTED
-- Next action: Begin lesson 1.1 using the current AWS AgentCore documentation as the source of truth.
+- Status: IN PROGRESS
+- Next action: Complete the Lesson 1.1 understanding checkpoint with the learner, then decide whether to advance.
 
 ## Completed components
 
